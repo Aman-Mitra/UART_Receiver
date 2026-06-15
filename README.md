@@ -13,5 +13,5 @@ RTL implementation of a UART Receiver in Verilog.
 - uart_rx_tb.v
 
 ## Waveform of the UART Receiver module
-!(UARTWaveform.png)
+![UART Waveform](UARTWaveform.png)
 
